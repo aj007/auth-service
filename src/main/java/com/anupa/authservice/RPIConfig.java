@@ -1,4 +1,4 @@
-package com.tarini.hrasep9authservice;
+package com.anupa.authservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

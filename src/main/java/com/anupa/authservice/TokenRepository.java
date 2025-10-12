@@ -1,4 +1,4 @@
-package com.tarini.hrasep9authservice;
+package com.anupa.authservice;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

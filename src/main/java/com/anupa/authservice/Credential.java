@@ -1,4 +1,4 @@
-package com.tarini.hrasep9authservice;
+package com.anupa.authservice;
 
 import lombok.Data;
 
@@ -12,5 +12,5 @@ public class Credential
     @Id
     String phone;
     String password;
-    String type; // CUSTOMER, CONTRACTOR, LABOUR
+    String type; // CUSTOMER, VENDOR, DELIVERY_PARTNER
 }

@@ -1,4 +1,4 @@
-package com.tarini.hrasep9authservice;
+package com.anupa.authservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

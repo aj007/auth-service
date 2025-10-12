@@ -8,11 +8,11 @@
         <version>3.3.3</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.tarini</groupId>
-    <artifactId>hra-sep9-auth-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>hra-sep9-auth-service</name>
-    <description>hra-sep9-auth-service</description>
+    <groupId>com.anupa</groupId>
+    <artifactId>auth-service</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>auth-service</name>
+    <description>auth-service</description>
     <url />
     <licenses>
         <license />
@@ -27,7 +27,7 @@
         <url />
     </scm>
     <properties>
-        <java.version>17</java.version>
+        <java.version>21</java.version>
         <spring-cloud.version>2023.0.3</spring-cloud.version>
     </properties>
 

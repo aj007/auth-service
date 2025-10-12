@@ -1,4 +1,4 @@
-package com.tarini.hrasep9authservice;
+package com.anupa.authservice;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
